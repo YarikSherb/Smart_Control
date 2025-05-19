@@ -1,0 +1,24 @@
+Added Component: Designator=K1(HK4100F)
+Added Component: Designator=K2(HK4100F)
+Added Component: Designator=K3(HK4100F)
+Added Pin To Net: NetName=5V Pin=K1-1
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Pin To Net: NetName=NetK1_6 Pin=K1-6
+Added Pin To Net: NetName=5V Pin=K2-1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_3 Pin=K2-3
+Added Pin To Net: NetName=NetK2_4 Pin=K2-4
+Added Pin To Net: NetName=NetK2_5 Pin=K2-5
+Added Pin To Net: NetName=NetK2_6 Pin=K2-6
+Added Pin To Net: NetName=5V Pin=K3-1
+Added Pin To Net: NetName=NetK3_2 Pin=K3-2
+Added Pin To Net: NetName=NetK3_3 Pin=K3-3
+Added Pin To Net: NetName=NetK3_4 Pin=K3-4
+Added Pin To Net: NetName=NetK3_5 Pin=K3-5
+Added Pin To Net: NetName=NetK3_6 Pin=K3-6
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K1 HF4100F
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K2 HF4100F
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K3 HF4100F

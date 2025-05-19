@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=NetK?_3 Pin=K?-3
+Removed Pin From Net: NetName=NetK?_5 Pin=XS?-1
+Removed Pin From Net: NetName=NetK?_2 Pin=XS?-2
+Change Footprint: Footprint Not Found HK4100F
+Change Footprint: Footprint Not Found HK4100F
+Change Footprint: Footprint Not Found HK4100F
+Change Footprint: Footprint Not Found HK4100F
+Change Component Comment : Designator=K? Old Comment=Relay_5v_220v New Comment=HF4100F
+Change Component Comment : Designator=K? Old Comment=Relay_5v_220v New Comment=HF4100F
+Change Component Comment : Designator=K? Old Comment=Relay_5v_220v New Comment=HF4100F
+Change Component Comment : Designator=K? Old Comment=Relay_5v_220v New Comment=HF4100F
+Change component parameters: Designator = "K?" ("K?"); Footprint = "SRD-S-124D4"; UniqueID = "\DHDUIWIC" ("\DHDUIWIC")
+Change component parameters: Designator = "K?" ("K?"); Footprint = "SRD-S-124D4"; UniqueID = "\TCEJDZMG" ("\TCEJDZMG")
+Change component parameters: Designator = "K?" ("K?"); Footprint = "SRD-S-124D4"; UniqueID = "\DNQLQKKA" ("\DNQLQKKA")
+Change component parameters: Designator = "K?" ("K?"); Footprint = "SRD-S-124D4"; UniqueID = "\YESRWZAO" ("\YESRWZAO")
+Added Pin To Net: NetName=NetK?_3 Pin=K?-2
+Added Pin To Net: NetName=NetK?_2 Pin=VD?-1
+Added Pin To Net: NetName=NetK?_2 Pin=VD?-2
+Added Pin To Net: NetName=NetK?_2 Pin=VT?-3
+Added Pin To Net: NetName=NetK?_5 Pin=XS?-2
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK?_2
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=XS?-1
+Added Net: Name=NetK?_3
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D? PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D? PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D? PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K? HF4100F
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K? HF4100F
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K? HF4100F
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT? BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT? BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT? BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS? KF301
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS? KF301
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS? KF301
+Added Room: Name=Sheet_MCU

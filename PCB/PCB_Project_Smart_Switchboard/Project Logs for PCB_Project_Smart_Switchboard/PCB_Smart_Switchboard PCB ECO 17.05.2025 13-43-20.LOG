@@ -1,0 +1,31 @@
+Added Component: Designator=D1(LQFP-64)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "STM32F107RCT6"; VariantName = "[No Variations]"
+Added Component: Designator=D2(ESP8266 ESP-12-E)
+Add Component: Footprint Not Found SIM800C
+Added Pin To Net: NetName=GND Pin=D1-12
+Added Pin To Net: NetName=+3.3V Pin=D1-13
+Added Pin To Net: NetName=GND Pin=D1-18
+Added Pin To Net: NetName=+3.3V Pin=D1-19
+Added Pin To Net: NetName=GND Pin=D1-31
+Added Pin To Net: NetName=+3.3V Pin=D1-32
+Added Pin To Net: NetName=+3.3V Pin=D1-47
+Added Pin To Net: NetName=GND Pin=D1-48
+Added Pin To Net: NetName=GND Pin=D1-63
+Added Pin To Net: NetName=+3.3V Pin=D1-64
+Added Pin To Net: NetName=+3.3V Pin=D2-8
+Added Pin To Net: NetName=GND Pin=D2-15
+Add Pin To Net: Unknown Pin: Pin D3-8
+Add Pin To Net: Unknown Pin: Pin D3-13
+Add Pin To Net: Unknown Pin: Pin D3-19
+Add Pin To Net: Unknown Pin: Pin D3-21
+Add Pin To Net: Unknown Pin: Pin D3-27
+Add Pin To Net: Unknown Pin: Pin D3-30
+Add Pin To Net: Unknown Pin: Pin D3-31
+Add Pin To Net: Unknown Pin: Pin D3-33
+Add Pin To Net: Unknown Pin: Pin D3-36
+Add Pin To Net: Unknown Pin: Pin D3-37
+Added Member To Class: ClassName=Sheet_MCU Member=Component D1 STM32f107RCT6
+Added Member To Class: ClassName=Sheet_ESP8266_SIM800C Member=Component D2 ESP-12F
+Add Class Member: Failed to add class member : Component D3 SIM800C
+Added Room: Name=Sheet_MCU

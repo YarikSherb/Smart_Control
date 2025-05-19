@@ -1,0 +1,278 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D?
+Added Component: Designator=D?(DIP-4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PC817C"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIP-4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PC817C"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIP-4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PC817C"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIP-4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PC817C"; VariantName = "[No Variations]"
+Added Component: Designator=K?(SRD-S-124D4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Ningbo Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Added Component: Designator=K?(SRD-S-124D4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Ningbo Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Added Component: Designator=K?(SRD-S-124D4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Ningbo Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Added Component: Designator=K?(SRD-S-124D4)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Ningbo Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD323)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD323)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(VD0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KPHCM-2012SURCK"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD323)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD323)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(VD0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KPHCM-2012SURCK"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(VD0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KPHCM-2012SURCK"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(VD0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KPHCM-2012SURCK"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(INF-SOT23_M)
+Add component (AddParameter): Name = "CompType"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC847B SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(INF-SOT23_M)
+Add component (AddParameter): Name = "CompType"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC847B SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(INF-SOT23_M)
+Add component (AddParameter): Name = "CompType"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC847B SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(INF-SOT23_M)
+Add component (AddParameter): Name = "CompType"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hottech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC847B SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(KF301-5.08-3P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CIXI SANHE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KF301-5.0-3P"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(KF301-5.08-3P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CIXI SANHE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KF301-5.0-3P"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(KF301-5.08-3P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CIXI SANHE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KF301-5.0-3P"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(KF301-5.08-3P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CIXI SANHE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KF301-5.0-3P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=5V Pin=K?-1
+Added Pin To Net: NetName=5V Pin=K?-1
+Added Pin To Net: NetName=5V Pin=K?-1
+Added Pin To Net: NetName=5V Pin=K?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=VD?-2
+Added Pin To Net: NetName=5V Pin=VD?-2
+Added Pin To Net: NetName=5V Pin=VD?-2
+Added Pin To Net: NetName=5V Pin=VD?-2
+Added Net: Name=5V
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Added Pin To Net: NetName=NetD?_3 Pin=D?-3
+Added Pin To Net: NetName=NetD?_3 Pin=VT?-1
+Added Net: Name=NetD?_3
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_3" already exists
+Added Pin To Net: NetName=NetD?_4 Pin=D?-4
+Added Pin To Net: NetName=NetD?_4 Pin=R?-2
+Added Net: Name=NetD?_4
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Added Pin To Net: NetName=NetK?_2 Pin=K?-2
+Added Pin To Net: NetName=NetK?_2 Pin=XS?-2
+Added Net: Name=NetK?_2
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=VD?-1
+Added Pin To Net: NetName=NetK?_3 Pin=VD?-2
+Added Pin To Net: NetName=NetK?_3 Pin=VT?-3
+Added Net: Name=NetK?_3
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Added Pin To Net: NetName=NetK?_4 Pin=K?-4
+Added Pin To Net: NetName=NetK?_4 Pin=XS?-3
+Added Net: Name=NetK?_4
+Add Net: Net with name "NetK?_4" already exists
+Add Net: Net with name "NetK?_4" already exists
+Add Net: Net with name "NetK?_4" already exists
+Added Pin To Net: NetName=NetK?_5 Pin=K?-5
+Added Pin To Net: NetName=NetK?_5 Pin=XS?-1
+Added Net: Name=NetK?_5
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_5" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=VD?-1
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=Relay1 Pin=R?-1
+Added Net: Name=Relay1
+Added Pin To Net: NetName=Relay2 Pin=R?-1
+Added Net: Name=Relay2
+Added Pin To Net: NetName=Relay3 Pin=R?-1
+Added Net: Name=Relay3
+Added Pin To Net: NetName=Relay4 Pin=R?-1
+Added Net: Name=Relay4
+Added Class: Name=Sheet_Digital_Input_and_Relay
+Added Room: Name=Sheet_MCU

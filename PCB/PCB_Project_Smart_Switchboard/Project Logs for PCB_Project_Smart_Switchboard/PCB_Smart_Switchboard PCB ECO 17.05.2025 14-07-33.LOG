@@ -1,0 +1,13 @@
+Added Component: Designator=D?(SIM800C)
+Added Pin To Net: NetName=GND Pin=D?-8
+Added Pin To Net: NetName=GND Pin=D?-13
+Added Pin To Net: NetName=GND Pin=D?-19
+Added Pin To Net: NetName=GND Pin=D?-21
+Added Pin To Net: NetName=GND Pin=D?-27
+Added Pin To Net: NetName=GND Pin=D?-30
+Added Pin To Net: NetName=GND Pin=D?-31
+Added Pin To Net: NetName=GND Pin=D?-33
+Added Pin To Net: NetName=GND Pin=D?-36
+Added Pin To Net: NetName=GND Pin=D?-37
+Added Member To Class: ClassName=Sheet_ESP8266_SIM800C Member=Component D? SIM800C
+Added Room: Name=Sheet_MCU

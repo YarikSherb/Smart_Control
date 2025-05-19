@@ -1,0 +1,19 @@
+Change Footprint: Footprint Not Found SIM800C
+Change Component Comment : Designator=D? Old Comment=STM32f107RCT6 New Comment=SIM800C
+Change component parameters: Designator = "D?" ("D?"); Footprint = "LQFP-64"; UniqueID = "\DFMQDJMI" ("\DFMQDJMI")
+Added Component: Designator=D?(LQFP-64)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "STM32F107RCT6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-8
+Added Pin To Net: NetName=GND Pin=D?-13
+Added Pin To Net: NetName=GND Pin=D?-19
+Added Pin To Net: NetName=GND Pin=D?-21
+Added Pin To Net: NetName=GND Pin=D?-27
+Added Pin To Net: NetName=GND Pin=D?-30
+Added Pin To Net: NetName=GND Pin=D?-31
+Added Pin To Net: NetName=GND Pin=D?-33
+Added Pin To Net: NetName=GND Pin=D?-36
+Added Pin To Net: NetName=GND Pin=D?-37
+Added Member To Class: ClassName=Sheet_ESP8266_SIM800C Member=Component D? ESP-12F
+Added Member To Class: ClassName=Sheet_MCU Member=Component D? STM32f107RCT6
+Added Room: Name=Sheet_MCU

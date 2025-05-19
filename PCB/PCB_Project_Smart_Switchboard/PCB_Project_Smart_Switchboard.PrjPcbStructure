@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Sheet_Analog.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Sheet_Analog.SchDoc|FileName=Sheet_Digital_Input_and_Relay.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Sheet_Analog.SchDoc|FileName=Sheet_ESP8266_SIM800C.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Sheet_Analog.SchDoc|FileName=Sheet_MCU.SchDoc|SheetNumber=1

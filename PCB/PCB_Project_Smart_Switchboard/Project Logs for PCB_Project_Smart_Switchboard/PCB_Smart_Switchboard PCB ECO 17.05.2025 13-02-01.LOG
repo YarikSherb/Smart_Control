@@ -1,0 +1,15 @@
+Add Component: Footprint Not Found SIM800C
+Added Component: Designator=D?(LQFP-64)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "STM32F107RCT6"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LQFP-64)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "STM32F107RCT6"; VariantName = "[No Variations]"
+Added Component: Designator=D?(ESP8266 ESP-12-E)
+Added Pin To Net: NetName=+3.3V Pin=D?-8
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=GND Pin=D?-15
+Added Net: Name=GND
+Added Class: Name=Sheet_ESP8266_SIM800C
+Added Class: Name=Sheet_MCU
+Added Room: Name=Sheet_MCU

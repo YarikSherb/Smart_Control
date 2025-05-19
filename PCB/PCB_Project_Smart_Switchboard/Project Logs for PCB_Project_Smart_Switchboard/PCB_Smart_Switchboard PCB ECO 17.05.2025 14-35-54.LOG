@@ -1,0 +1,103 @@
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "Datasheets\Ð1-12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 1% - Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU"; Value = "ÀËßÐ.434110.005ÒÓ, ÐÄ Â 22.02.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Relay1 Pin=R?-1
+Added Pin To Net: NetName=Relay2 Pin=R?-1
+Added Pin To Net: NetName=Relay3 Pin=R?-1
+Added Pin To Net: NetName=Relay4 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_3" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetD?_4" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_4" already exists
+Add Net: Net with name "NetK?_4" already exists
+Add Net: Net with name "NetK?_4" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D? PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D? PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D? PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K? Relay_5v_220v
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K? Relay_5v_220v
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K? Relay_5v_220v
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R? Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD? LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT? BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT? BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT? BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS? KF301
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS? KF301
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS? KF301
+Added Room: Name=Sheet_MCU

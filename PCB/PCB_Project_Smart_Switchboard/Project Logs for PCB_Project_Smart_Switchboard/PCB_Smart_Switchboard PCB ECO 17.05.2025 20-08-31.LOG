@@ -1,0 +1,150 @@
+Removed Member From Class: ClassName=Sheet_ESP8266_SIM800C Member=D?
+Change Footprint: Footprint Not Found HK4100F
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=K? NewDesignator=K4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD2
+Change Component Designator: OldDesignator=VD? NewDesignator=VD3
+Change Component Designator: OldDesignator=VD? NewDesignator=VD4
+Change Component Designator: OldDesignator=VD? NewDesignator=VD5
+Change Component Designator: OldDesignator=VD? NewDesignator=VD6
+Change Component Designator: OldDesignator=VD? NewDesignator=VD7
+Change Component Designator: OldDesignator=VD? NewDesignator=VD8
+Change Component Designator: OldDesignator=VT? NewDesignator=VT1
+Change Component Designator: OldDesignator=VT? NewDesignator=VT2
+Change Component Designator: OldDesignator=VT? NewDesignator=VT3
+Change Component Designator: OldDesignator=VT? NewDesignator=VT4
+Change Component Designator: OldDesignator=XS? NewDesignator=XS1
+Change Component Designator: OldDesignator=XS? NewDesignator=XS2
+Change Component Designator: OldDesignator=XS? NewDesignator=XS3
+Change Component Designator: OldDesignator=XS? NewDesignator=XS4
+Add Component: Footprint Not Found HK4100F
+Add Component: Footprint Not Found HK4100F
+Add Component: Footprint Not Found HK4100F
+Add Pin To Net: Unknown Pin: Pin K1-1
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K3-1
+Add Pin To Net: Unknown Pin: Pin K3-2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD?_3 New Net Name=NetD5_3
+Change Net Name : Old Net Name=NetD?_4 New Net Name=NetD4_4
+Change Net Name : Old Net Name=NetK?_2 New Net Name=NetK3_2
+Change Net Name : Old Net Name=NetK?_2 New Net Name=NetK4_2
+Change Net Name : Old Net Name=NetK?_5 New Net Name=NetK4_5
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR13_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R5-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=NetD4_3 Pin=VT1-1
+Added Net: Name=NetD4_3
+Added Pin To Net: NetName=NetD5_4 Pin=D5-4
+Added Pin To Net: NetName=NetD5_4 Pin=R10-2
+Added Net: Name=NetD5_4
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R7-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_3 Pin=D6-3
+Added Pin To Net: NetName=NetD6_3 Pin=VT3-1
+Added Net: Name=NetD6_3
+Added Pin To Net: NetName=NetD6_4 Pin=D6-4
+Added Pin To Net: NetName=NetD6_4 Pin=R11-2
+Added Net: Name=NetD6_4
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R8-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD7_3 Pin=D7-3
+Added Pin To Net: NetName=NetD7_3 Pin=VT4-1
+Added Net: Name=NetD7_3
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_4 Pin=R12-2
+Added Net: Name=NetD7_4
+Added Pin To Net: NetName=NetK1_2 Pin=VD1-2
+Added Pin To Net: NetName=NetK1_2 Pin=VD5-1
+Added Pin To Net: NetName=NetK1_2 Pin=VT1-3
+Added Net: Name=NetK1_2
+Added Pin To Net: NetName=NetK1_3 Pin=XS1-1
+Added Net: Name=NetK1_3
+Added Pin To Net: NetName=NetK1_5 Pin=XS1-2
+Added Net: Name=NetK1_5
+Added Pin To Net: NetName=NetK2_2 Pin=VD2-2
+Added Pin To Net: NetName=NetK2_2 Pin=VD6-1
+Added Pin To Net: NetName=NetK2_2 Pin=VT2-3
+Added Net: Name=NetK2_2
+Added Pin To Net: NetName=NetK2_3 Pin=XS2-1
+Added Net: Name=NetK2_3
+Added Pin To Net: NetName=NetK2_5 Pin=XS2-2
+Added Net: Name=NetK2_5
+Added Pin To Net: NetName=NetK3_3 Pin=XS3-1
+Added Net: Name=NetK3_3
+Added Pin To Net: NetName=NetK3_5 Pin=XS3-2
+Added Net: Name=NetK3_5
+Added Pin To Net: NetName=NetK4_3 Pin=K4-3
+Added Pin To Net: NetName=NetK4_3 Pin=XS4-1
+Added Net: Name=NetK4_3
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=VD2-1
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=VD3-1
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=VD4-1
+Added Net: Name=NetR16_2
+Added Member To Class: ClassName=Sheet_ESP8266_SIM800C Member=Component D3 SIM800C
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D4 PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D6 PC817
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component D7 PC817
+Add Class Member: Failed to add class member : Component K1 HF4100F
+Add Class Member: Failed to add class member : Component K2 HF4100F
+Add Class Member: Failed to add class member : Component K3 HF4100F
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component K4 HF4100F
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R1 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R2 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R3 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R4 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R5 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R7 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R8 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R9 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R10 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R11 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R12 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R13 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R14 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R15 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component R16 Resistor
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD1 LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD3 LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD4 LED_RED_0805
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD5 Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD6 Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD7 Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VD8 Diode 1n4148
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT1 BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT3 BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component VT4 BC847B SOT23-3
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS1 KF301
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS2 KF301
+Added Member To Class: ClassName=Sheet_Digital_Input_and_Relay Member=Component XS3 KF301
+Added Room: Name=Sheet_MCU
